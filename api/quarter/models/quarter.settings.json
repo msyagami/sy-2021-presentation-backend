@@ -1,0 +1,34 @@
+{
+  "kind": "collectionType",
+  "collectionName": "quarters",
+  "info": {
+    "name": "Quarter"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "picture": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false,
+      "pluginOptions": {}
+    },
+    "posts": {
+      "via": "quarter",
+      "collection": "post"
+    }
+  }
+}
