@@ -1,8 +1,8 @@
 {
   "name": "sy-2021-presentation",
   "private": true,
-  "version": "0.1.0",
-  "description": "A Strapi application",
+  "version": "4.0.0",
+  "description": "The School Year 2021 Presentation backend project by MegaloSansYagami. Made with Strapi.",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -29,7 +29,7 @@
     "strapi-utils": "3.6.3"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "MSYagami"
   },
   "strapi": {
     "uuid": "92f57e17-f442-4c8c-8fed-d6af96c6aff3"
