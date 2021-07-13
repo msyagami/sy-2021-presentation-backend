@@ -9912,7 +9912,7 @@ sprintf-js@^1.1.1:
   resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.1.2.tgz#da1765262bf8c0f571749f2ad6c26300207ae673"
   integrity sha512-VE0SOVEHCk7Qc8ulkWw3ntAzXuqf7S2lvwQaDLRnUeIEaKNQJzV6BwmLKhOqT61aGhfUMrXeaBk+oDGCzvhcug==
 
-sqlite3@5.0.2:
+sqlite3@^5.0.2:
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/sqlite3/-/sqlite3-5.0.2.tgz#00924adcc001c17686e0a6643b6cbbc2d3965083"
   integrity sha512-1SdTNo+BVU211Xj1csWa8lV6KM0CtucDwRyA0VHl91wEH1Mgh7RxUpI4rVvG7OhHrzCSGaVyW5g8vKvlrk9DJA==
@@ -10410,7 +10410,7 @@ strapi-provider-email-sendmail@3.6.5:
     sendmail "^1.6.1"
     strapi-utils "3.6.5"
 
-strapi-provider-upload-cloudinary@^3.6.3:
+strapi-provider-upload-cloudinary@^3.6.5:
   version "3.6.5"
   resolved "https://registry.yarnpkg.com/strapi-provider-upload-cloudinary/-/strapi-provider-upload-cloudinary-3.6.5.tgz#117bd7f6fb03d9cac72443a80dd0de25576dda28"
   integrity sha512-gOSRp2iv2OeEMexrqxrE8tRSgD7ObRje5+gVW85x/nTg4oYdbffajSn5rmEf/+Y/8smwwR4xTHWzy+AFt4R4rg==
