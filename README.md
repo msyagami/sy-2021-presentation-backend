@@ -14,8 +14,8 @@ View [Strapi's docs](https://strapi.io/documentation) for deployment and other f
 
 I recommend [Heroku](https://www.heroku.com/home) to deploy this with [PostgreSQL add-on](https://elements.heroku.com/addons/heroku-postgresql) installed.
 
-Pricing may vary, but the free tier works.
+Pricing may vary.
 
 ### Contributions are allowed. For spelling mistakes on the website's given information, please report it on the [Frontend repo.](https://github.com/msyagami/sy-2021-presentation)
 
-## Made by: [MegaloSansYagami](https://youtube.com/c/MegaloSansYagami)
+## Made by: [MSYagami](https://twitter.com/404)
